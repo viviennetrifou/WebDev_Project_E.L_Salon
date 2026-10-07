@@ -1,0 +1,82 @@
+
+body 
+{
+    margin: 1px;
+    background-color: rgb(255, 243, 254);
+    color: #2b2024;
+    font-family: "Roboto Slab", serif;
+    font-size: 16px;
+    font-weight: 400
+
+}
+
+header
+{
+    background-color: #f4a6c1;
+    text-align: center;
+    padding: 30px;
+}
+
+h1
+{
+    font: size 40px;
+    margin: 10px;
+}
+
+h2
+{
+    color: #572b45;
+    font-size: 20px;
+}
+
+p
+{
+    line-height: 1.6;
+}
+
+nav a
+{
+    background-color: #f4a6c1;
+    padding: 12px;
+    margin-left: 1px;
+
+}
+
+nav a:hover
+{
+    background-color: #c94070;
+    color: #2b2024;
+}
+
+section
+{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #f4a6c1;
+}
+
+article
+{
+    margin: 15px 0;
+    padding: 15px;
+    border: 1px solid #f4a6c1;
+}
+
+ul
+{
+    padding-left: 25px;
+}
+
+li 
+{
+    margin-bottom: 8px;
+}
+
+footer
+{
+    background-color: #2b2024;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
